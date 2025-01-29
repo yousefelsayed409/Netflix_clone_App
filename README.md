@@ -19,7 +19,7 @@ The Live Score application is a football sports application that presents the re
 3. **Details  Feature**  
 
  ![alt text](<Details Pic.PNG>)
-
+ 
 3. **Search Screen**  
 
  ![alt text](<search Pic.PNG>)
