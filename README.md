@@ -2,7 +2,7 @@
 
 # Netflix Clone App
 
-The Live Score application is a football sports application that presents the results of today's matches, team formations, and match events. It also allows arrangements for leagues and cups such as the English Premier League and the World Cup.
+Netflix Clone is a simulation app that allows users to watch movies and TV shows online in a manner similar to the Netflix app. The app features a smooth and distinctive user interface that enables users to browse through various titles with ease. It offers a wide range of content such as movies, TV shows, and series in different genres (like action, comedy, drama, and more).
 
 ## Netflix Clone mockup
 
